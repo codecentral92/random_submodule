@@ -1,1 +1,1 @@
-print("This is a random submodule, but edited")
+print("This is a random submodule")
